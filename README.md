@@ -1,0 +1,189 @@
+<div align="center">
+
+<!-- Cyberpunk Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#0f172a,50:#00f0ff,100:#7928ca&height=220&section=header&text=ByGh00st&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%E2%80%A2%20KERNEL%20SYSTEMS%20%E2%80%A2%20PURE%20RUST&descFontSize=18&descColor=00f0ff&descAlignY=62" width="100%" />
+
+<!-- Animated Dynamic Typing Subheader -->
+<a href="https://byghost.tr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=700&lines=FOUNDER+%26+LEAD+ARCHITECT+%40+BYGHOST+SECURITY;SOVEREIGN+KERNEL-LEVEL+NETWORK+DEFENSE;HIGH-PERFORMANCE+RUST+%26+eBPF%2FXDP+SYSTEMS;CREATOR+OF+WRAITH-PRIME+%26+GHOST-SHIELD;IN-FLIGHT+DPI+SANITIZATION+%26+ANTI-FORENSICS" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Interactive Contact Badges -->
+<p align="center">
+  <a href="https://byghost.tr"><img src="https://img.shields.io/badge/🌐_PORTAL-byghost.tr-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
+  <a href="https://linkedin.com/in/byghost-tr"><img src="https://img.shields.io/badge/💼_LINKEDIN-byghost--tr-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:cybersecurity@byghost.tr"><img src="https://img.shields.io/badge/⚡_COMMS-cybersecurity@byghost.tr-ff0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+</p>
+
+</div>
+
+---
+
+## ⚡ ARCHITECTURAL MATRIX & CORE DIRECTIVES
+
+```ansi
+ [1;36m┌── [ 🛡️ CYBERNETIC KERNEL & OFFENSIVE SECURITY FOCUS ] ──────────────────────────────┐ [0m
+ [1;36m│ [0m  [1;32m• Low-Level Architecture [0m  : Linux Kernel (5.x - 6.x), Netlink FIB Sockets, eBPF/XDP, Seccomp-BPF  [1;36m│ [0m
+ [1;36m│ [0m  [1;32m• Traffic Evasion & Mask [0m  : In-Flight AF_PACKET DPI Sanitization, Dynamic JA3/JA4 TLS Camouflage   [1;36m│ [0m
+ [1;36m│ [0m  [1;32m• Defensive Engineering [0m   : Line-Rate L2/L3/L4 Mitigation, Zero-Copy Rings, Active Honeypots     [1;36m│ [0m
+ [1;36m│ [0m  [1;32m• Primary Languages [0m       : Pure Safe Rust, Modern C++, C, Assembly x86_64, Python, TypeScript    [1;36m│ [0m
+ [1;36m└── [ NYX-PRIME // SOVEREIGN AUTONOMOUS ENGINEERING CORE ] ───────────────────────────┘ [0m
+```
+
+---
+
+## 🚀 FLAGSHIP SİBER SİLAHLAR (FLAGSHIP CYBER WEAPONS)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛡️ WRAITH-PRIME</h3>
+        <p><b>Sovereign Kernel-Grade Network Anonymization & Anti-Forensics Engine</b></p>
+      </div>
+      <ul>
+        <li><b>Architecture:</b> Pure Safe Rust, Netlink FIB Table 52 Routing</li>
+        <li><b>Camouflage:</b> Dynamic RFC 8701 GREASE, JA3/JA4 TLS Fingerprint Mimicry</li>
+        <li><b>Multi-Hop Mesh:</b> Tor TransProxy + WireGuard Multi-Hop Tunneling</li>
+        <li><b>Active Defense:</b> Deceptive Localhost Honeypots & LAN Tarpit Engine</li>
+        <li><b>Internationalization:</b> Native 75 Global Locales Support</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/ByGh00st/wraith">
+          <img src="https://img.shields.io/badge/EXPLORE-WRAITH_PRIME-00f0ff?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⚡ GHOST-SHIELD</h3>
+        <p><b>High-Throughput Kernel-Level eBPF/XDP Anti-DDoS Engine</b></p>
+      </div>
+      <ul>
+        <li><b>Architecture:</b> Kernel-level XDP driver hook (Ring 0)</li>
+        <li><b>Performance:</b> Line-rate L2/L3/L4 packet filtering at NIC driver layer</li>
+        <li><b>Mitigation:</b> Sub-microsecond SYN, UDP, ICMP and amplification drop</li>
+        <li><b>Telemetry:</b> Zero-copy BPF ring buffers & live packet inspection</li>
+        <li><b>Engine:</b> Autonomous adaptive panic threshold mitigation</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/ByGh00st/ghost-shield">
+          <img src="https://img.shields.io/badge/EXPLORE-GHOST_SHIELD-ff0055?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎮 GHOST-FRAMEWORK</h3>
+        <p><b>Modular Cyberpunk Terminal User Interface & Security Tooling Suite</b></p>
+      </div>
+      <ul>
+        <li><b>Architecture:</b> Asynchronous Python, Rich, Textual TUI Engine</li>
+        <li><b>Capabilities:</b> Network reconnaissance, automated exploitation workflows</li>
+        <li><b>Interface:</b> High-contrast Cyberpunk HUD & real-time telemetry</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/ByGh00st/Ghost-Framework">
+          <img src="https://img.shields.io/badge/EXPLORE-GHOST_FRAMEWORK-7928ca?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🔒 PASSVAULT</h3>
+        <p><b>Hardened Secrets & Cryptographic Credential Vault</b></p>
+      </div>
+      <ul>
+        <li><b>Architecture:</b> Modern TypeScript, ChaCha20-Poly1305 / AES-256-GCM</li>
+        <li><b>Security:</b> Zero-knowledge memory zeroization on process exit</li>
+        <li><b>Integration:</b> CLI & SDK bindings for automated CI/CD credential injection</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/ByGh00st/PassVault">
+          <img src="https://img.shields.io/badge/EXPLORE-PASSVAULT-00ff88?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ WEAPONIZED TECH ARSENAL
+
+<div align="center">
+
+### 💻 Core Systems & Low-Level Languages
+<p>
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Assembly_x86_64-333333?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+### 🛡️ Kernel, Offensive Security & Networking
+<p>
+  <img src="https://img.shields.io/badge/eBPF%20%2F%20XDP-black?style=for-the-badge&logo=linux&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Linux_Kernel_Netfilter-E95420?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlink_FIB_Sockets-0f172a?style=for-the-badge&logo=gnubash&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Tor_Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra_RE-333333?style=for-the-badge&logo=ghostery&logoColor=ff0055" />
+</p>
+
+### ☁️ Infrastructure, Daemons & In-Memory Storage
+<p>
+  <img src="https://img.shields.io/badge/Linux_Arch%20%2F%20Debian-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tokio_Async-000000?style=for-the-badge&logo=rust&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 📊 LIVE GITHUB TELEMETRY & METRICS
+
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByGh00st&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=cdd6f4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByGh00st&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=cdd6f4" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByGh00st&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakNum=00f0ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByGh00st&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff0055" width="95%" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated Contribution Snake -->
+### 🐍 Contribution Activity Stream
+<img src="https://raw.githubusercontent.com/ByGh00st/ByGh00st/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#7928ca,50:#00f0ff,100:#0f172a&height=120&section=footer" width="100%" />
+
+<sub><i>⚡ "In code we trust, in kernel we reign." — ByGhost Security // Sovereign Cybernetic Systems</i></sub>
+
+</div>
