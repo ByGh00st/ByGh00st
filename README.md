@@ -106,8 +106,8 @@
         <p><b>Sovereign Kernel-Grade Network Anonymization Engine</b></p>
         <p>
           <img src="https://img.shields.io/github/stars/ByGh00st/wraith?style=flat-square&logo=github&color=00f0ff&labelColor=0d1117" />
-          <img src="https://img.shields.io/github/last-commit/ByGh00st/wraith?style=flat-square&color=00ff88&labelColor=0d1117" />
           <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" />
+          <img src="https://img.shields.io/badge/Platform-Linux_Kernel-blue?style=flat-square&logo=linux" />
         </p>
       </div>
       <ul>
@@ -155,6 +155,7 @@
         <p>
           <img src="https://img.shields.io/github/stars/ByGh00st/Ghost-Framework?style=flat-square&logo=github&color=7928ca&labelColor=0d1117" />
           <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/Platform-Cross--Platform-7928ca?style=flat-square&logo=gnubash&logoColor=white" />
         </p>
       </div>
       <ul>
@@ -175,7 +176,7 @@
         <p><b>High-Throughput Kernel-Level eBPF/XDP Anti-DDoS Engine</b></p>
         <p>
           <img src="https://img.shields.io/github/stars/ByGh00st/ghost-shield?style=flat-square&logo=github&color=ff0055&labelColor=0d1117" />
-          <img src="https://img.shields.io/github/last-commit/ByGh00st/ghost-shield?style=flat-square&color=00ff88&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Language-C_%2F_eBPF-black?style=flat-square&logo=c" />
           <img src="https://img.shields.io/badge/Platform-eBPF%2FXDP-blue?style=flat-square&logo=linux" />
         </p>
       </div>
