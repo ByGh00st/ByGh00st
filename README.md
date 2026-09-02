@@ -21,16 +21,12 @@
 
 ---
 
-## ⚡ ARCHITECTURAL MATRIX & CORE DIRECTIVES
+### 🛡️ Operational Focus & Specializations
 
-```ansi
- [1;36m┌── [ 🛡️ CYBERNETIC KERNEL & OFFENSIVE SECURITY FOCUS ] ──────────────────────────────┐ [0m
- [1;36m│ [0m  [1;32m• Low-Level Architecture [0m  : Linux Kernel (5.x - 6.x), Netlink FIB Sockets, eBPF/XDP, Seccomp-BPF  [1;36m│ [0m
- [1;36m│ [0m  [1;32m• Traffic Evasion & Mask [0m  : In-Flight AF_PACKET DPI Sanitization, Dynamic JA3/JA4 TLS Camouflage   [1;36m│ [0m
- [1;36m│ [0m  [1;32m• Defensive Engineering [0m   : Line-Rate L2/L3/L4 Mitigation, Zero-Copy Rings, Active Honeypots     [1;36m│ [0m
- [1;36m│ [0m  [1;32m• Primary Languages [0m       : Pure Safe Rust, Modern C++, C, Assembly x86_64, Python, TypeScript    [1;36m│ [0m
- [1;36m└── [ NYX-PRIME // SOVEREIGN AUTONOMOUS ENGINEERING CORE ] ───────────────────────────┘ [0m
-```
+* ⚡ **Low-Level & Kernel Architecture**: Linux Kernel (5.x – 6.x), Direct `AF_NETLINK` FIB Sockets, `eBPF / XDP` Drivers, `Seccomp-BPF` Syscall Filtering
+* 🎭 **Traffic Camouflage & Evasion**: In-Flight `AF_PACKET` Payload Rewriting, Dynamic RFC 8701 GREASE, JA3/JA4 TLS Fingerprint Camouflage
+* 🛡️ **Defensive & Anti-Forensics Engineering**: Sub-microsecond Line-Rate L2/L3/L4 Mitigation, Zero-Copy Ring Buffers, DoD 5220.22-M Multi-Pass Shredder
+* 💻 **Primary Systems Languages**: Pure Safe Rust (Zero GC), Modern C++, C, Assembly x86_64, Python, TypeScript
 
 ---
 
