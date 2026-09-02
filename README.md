@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- Cyberpunk Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#0f172a,50:#00f0ff,100:#7928ca&height=220&section=header&text=ByGh00st&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%E2%80%A2%20KERNEL%20SYSTEMS%20%E2%80%A2%20PURE%20RUST&descFontSize=18&descColor=00f0ff&descAlignY=62" width="100%" />
-
-<!-- Animated Dynamic Typing Subheader -->
-<a href="https://byghost.tr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=700&lines=FOUNDER+%26+LEAD+ARCHITECT+%40+BYGHOST+SECURITY;SOVEREIGN+KERNEL-LEVEL+NETWORK+DEFENSE;HIGH-PERFORMANCE+RUST+%26+eBPF%2FXDP+SYSTEMS;CREATOR+OF+WRAITH-PRIME+%26+GHOST-SHIELD;IN-FLIGHT+DPI+SANITIZATION+%26+ANTI-FORENSICS" alt="Typing SVG" />
-</a>
+<!-- Full-Width Glowing Cyberpunk Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f172a&height=180&text=BYGH00ST&fontSize=50&fontColor=00f0ff&fontAlign=50&fontAlignY=45&desc=SOVEREIGN%20OFFENSIVE%20%26%20KERNEL%20SYSTEMS%20ARCHITECT&descFontSize=14&descColor=cdd6f4&descAlign=50&descAlignY=70&stroke=00f0ff&strokeWidth=2" width="100%" />
 
 <br/>
 
@@ -21,7 +16,7 @@
 
 ---
 
-### 🛡️ Operational Focus & Specializations
+### 🛡️ OPERATIONAL FOCUS & SPECIALIZATIONS
 
 * ⚡ **Low-Level & Kernel Architecture**: Linux Kernel (5.x – 6.x), Direct `AF_NETLINK` FIB Sockets, `eBPF / XDP` Drivers, `Seccomp-BPF` Syscall Filtering
 * 🎭 **Traffic Camouflage & Evasion**: In-Flight `AF_PACKET` Payload Rewriting, Dynamic RFC 8701 GREASE, JA3/JA4 TLS Fingerprint Camouflage
@@ -37,7 +32,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛡️ WRAITH-PRIME</h3>
-        <p><b>Sovereign Kernel-Grade Network Anonymization & Anti-Forensics Engine</b></p>
+        <p><b>Sovereign Kernel-Grade Network Anonymization Engine</b></p>
         <p>
           <img src="https://img.shields.io/github/stars/ByGh00st/wraith?style=flat-square&logo=github&color=00f0ff&labelColor=0d1117" />
           <img src="https://img.shields.io/github/last-commit/ByGh00st/wraith?style=flat-square&color=00ff88&labelColor=0d1117" />
@@ -85,7 +80,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎮 GHOST-FRAMEWORK</h3>
-        <p><b>Modular Cyberpunk Terminal User Interface & Security Tooling Suite</b></p>
+        <p><b>Modular Cyberpunk Terminal UI & Security Tooling Suite</b></p>
         <p>
           <img src="https://img.shields.io/github/stars/ByGh00st/Ghost-Framework?style=flat-square&logo=github&color=7928ca&labelColor=0d1117" />
           <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
@@ -163,13 +158,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#7928ca,50:#00f0ff,100:#0f172a&height=120&section=footer" width="100%" />
+<br/>
 
 <sub><i>⚡ "In code we trust, in kernel we reign." — ByGhost Security // Sovereign Cybernetic Systems</i></sub>
 
