@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ WEAPONIZED TECHNICAL ARSENAL
+## 🛠️ TECHNICAL ARSENAL
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 🚀 OPEN-SOURCE SYSTEMS & REPOSITORIES
+## 🚀 FEATURED OPEN-SOURCE ARCHITECTURES
 
 <table>
   <tr>
@@ -103,27 +103,26 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛡️ WRAITH-PRIME</h3>
-        <p><b>Sovereign Kernel-Grade Network Anonymization Engine</b></p>
+        <p><b>High-Assurance Kernel Network Privacy & Routing Engine</b></p>
         <p>
-          <img src="https://img.shields.io/github/stars/ByGh00st/wraith?style=flat-square&logo=github&color=00f0ff&labelColor=0d1117" />
+          <img src="https://img.shields.io/github/stars/ByGh00st/wraith?style=flat-square&logo=github&color=00ff88&labelColor=0d1117" />
           <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" />
           <img src="https://img.shields.io/badge/Platform-Linux_Kernel-blue?style=flat-square&logo=linux" />
         </p>
       </div>
       <ul>
-        <li><b>Architecture:</b> Pure Safe Rust, Netlink FIB Table 52 Routing</li>
-        <li><b>Camouflage:</b> Dynamic RFC 8701 GREASE, JA3/JA4 TLS Mimicry</li>
-        <li><b>Multi-Hop Mesh:</b> Tor TransProxy + WireGuard Multi-Hop Tunneling</li>
+        <li><b>Routing Architecture:</b> Pure Safe Rust, Netlink FIB Table 52 Routing</li>
+        <li><b>Traffic Obfuscation:</b> Dynamic RFC 8701 GREASE, JA3/JA4 TLS Synthesis</li>
+        <li><b>Multi-Hop Overlay:</b> Tor TransProxy + WireGuard Multi-Hop Tunneling</li>
         <li><b>Active Defense:</b> Deceptive Localhost Honeypots & LAN Tarpit Engine</li>
-        <li><b>Localization:</b> Native 75 Global Languages Support</li>
       </ul>
-      <div align="center">
+      <div align="center" style="padding-top: 12px;">
         <a href="https://github.com/ByGh00st/wraith">
           <img src="https://img.shields.io/badge/VIEW_REPOSITORY-WRAITH-00f0ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
         </a>
       </div>
     </td>
-    <!-- TOP RIGHT: PASSVAULT (SWAPPED TO TOP ROW) -->
+    <!-- TOP RIGHT: PASSVAULT -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>🔐 PASSVAULT</h3>
@@ -135,11 +134,12 @@
         </p>
       </div>
       <ul>
-        <li><b>Architecture:</b> Native Rust Citadel + React 18, AES-256-GCM & Argon2id KDF</li>
-        <li><b>Kernel Protection:</b> <code>VirtualLock</code> physical RAM pinning, Spectre-aligned zeroization</li>
-        <li><b>Defense & Storage:</b> Anti-Keylogger Scrambled Matrix, Windows Hello, Pure Binary <code>.pvdb</code></li>
+        <li><b>Cryptographic Engine:</b> Native Rust Citadel, AES-256-GCM & Argon2id KDF</li>
+        <li><b>Kernel Protection:</b> <code>VirtualLock</code> physical RAM pinning & volatile wipe</li>
+        <li><b>Anti-Keylogger:</b> Scrambled Virtual Matrix, Windows Hello, Pure Binary <code>.pvdb</code></li>
+        <li><b>Hardware Integration:</b> Windows DPAPI & TPM 2.0 silicon key derivation</li>
       </ul>
-      <div align="center">
+      <div align="center" style="padding-top: 12px;">
         <a href="https://github.com/ByGh00st/PassVault">
           <img src="https://img.shields.io/badge/VIEW_REPOSITORY-PASSVAULT-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
@@ -151,42 +151,43 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>💻 GHOST-FRAMEWORK</h3>
-        <p><b>Modular Terminal UI & Security Diagnostics Suite</b></p>
+        <p><b>Modular Terminal Interface & Security Diagnostics Suite</b></p>
         <p>
-          <img src="https://img.shields.io/github/stars/ByGh00st/Ghost-Framework?style=flat-square&logo=github&color=7928ca&labelColor=0d1117" />
+          <img src="https://img.shields.io/github/stars/ByGh00st/Ghost-Framework?style=flat-square&logo=github&color=00ff88&labelColor=0d1117" />
           <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
           <img src="https://img.shields.io/badge/Platform-Cross--Platform-7928ca?style=flat-square&logo=gnubash&logoColor=white" />
         </p>
       </div>
       <ul>
-        <li><b>Architecture:</b> Asynchronous Python, Rich, Textual TUI Engine</li>
-        <li><b>Capabilities:</b> Network reconnaissance, automated exploitation workflows</li>
-        <li><b>Interface:</b> High-contrast HUD & real-time telemetry</li>
+        <li><b>Core Engine:</b> Asynchronous Python, Rich, Textual TUI Framework</li>
+        <li><b>Diagnostics:</b> Network reconnaissance & automated security workflows</li>
+        <li><b>Interface HUD:</b> Real-time high-throughput terminal telemetry display</li>
+        <li><b>Extensibility:</b> Modular plugin architecture for tactical cyber utilities</li>
       </ul>
-      <div align="center">
+      <div align="center" style="padding-top: 12px;">
         <a href="https://github.com/ByGh00st/Ghost-Framework">
           <img src="https://img.shields.io/badge/VIEW_REPOSITORY-GHOST_FRAMEWORK-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </div>
     </td>
-    <!-- BOTTOM RIGHT: GHOST-SHIELD (SWAPPED TO BOTTOM ROW) -->
+    <!-- BOTTOM RIGHT: GHOST-SHIELD -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>⚡ GHOST-SHIELD</h3>
         <p><b>High-Throughput Kernel-Level eBPF/XDP Anti-DDoS Engine</b></p>
         <p>
-          <img src="https://img.shields.io/github/stars/ByGh00st/ghost-shield?style=flat-square&logo=github&color=ff0055&labelColor=0d1117" />
+          <img src="https://img.shields.io/github/stars/ByGh00st/ghost-shield?style=flat-square&logo=github&color=00ff88&labelColor=0d1117" />
           <img src="https://img.shields.io/badge/Language-C_%2F_eBPF-black?style=flat-square&logo=c" />
-          <img src="https://img.shields.io/badge/Platform-eBPF%2FXDP-blue?style=flat-square&logo=linux" />
+          <img src="https://img.shields.io/badge/Platform-Linux_eBPF%2FXDP-blue?style=flat-square&logo=linux" />
         </p>
       </div>
       <ul>
-        <li><b>Architecture:</b> Kernel-level XDP driver hook (Ring 0)</li>
-        <li><b>Performance:</b> Line-rate L2/L3/L4 packet filtering at NIC driver layer</li>
-        <li><b>Mitigation:</b> Sub-microsecond SYN, UDP, ICMP and amplification drop</li>
-        <li><b>Telemetry:</b> Zero-copy BPF ring buffers & live packet inspection</li>
+        <li><b>Driver Hooking:</b> Kernel-level XDP driver hook (Ring 0)</li>
+        <li><b>Wire-Speed Mitigation:</b> Line-rate L2/L3/L4 packet filtering at NIC layer</li>
+        <li><b>High-Speed Telemetry:</b> Zero-copy BPF ring buffers & live packet inspection</li>
+        <li><b>Threshold Control:</b> Autonomous adaptive panic threshold mitigation</li>
       </ul>
-      <div align="center">
+      <div align="center" style="padding-top: 12px;">
         <a href="https://github.com/ByGh00st/ghost-shield">
           <img src="https://img.shields.io/badge/VIEW_REPOSITORY-GHOST_SHIELD-ff0055?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
