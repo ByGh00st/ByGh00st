@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 FLAGSHIP SİBER SİLAHLAR (FLAGSHIP CYBER WEAPONS)
+## 🚀 FLAGSHIP SİBER PROJELER (FLAGSHIP CYBER WEAPONS)
 
 <table>
   <tr>
@@ -42,17 +42,22 @@
       <div align="center">
         <h3>🛡️ WRAITH-PRIME</h3>
         <p><b>Sovereign Kernel-Grade Network Anonymization & Anti-Forensics Engine</b></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/ByGh00st/wraith?style=flat-square&logo=github&color=00f0ff&labelColor=0d1117" />
+          <img src="https://img.shields.io/github/last-commit/ByGh00st/wraith?style=flat-square&color=00ff88&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Language-Rust-orange?style=flat-square&logo=rust" />
+        </p>
       </div>
       <ul>
         <li><b>Architecture:</b> Pure Safe Rust, Netlink FIB Table 52 Routing</li>
-        <li><b>Camouflage:</b> Dynamic RFC 8701 GREASE, JA3/JA4 TLS Fingerprint Mimicry</li>
+        <li><b>Camouflage:</b> Dynamic RFC 8701 GREASE, JA3/JA4 TLS Mimicry</li>
         <li><b>Multi-Hop Mesh:</b> Tor TransProxy + WireGuard Multi-Hop Tunneling</li>
         <li><b>Active Defense:</b> Deceptive Localhost Honeypots & LAN Tarpit Engine</li>
-        <li><b>Internationalization:</b> Native 75 Global Locales Support</li>
+        <li><b>Localization:</b> Native 75 Global Languages Support</li>
       </ul>
       <div align="center">
         <a href="https://github.com/ByGh00st/wraith">
-          <img src="https://img.shields.io/badge/EXPLORE-WRAITH_PRIME-00f0ff?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-WRAITH-00f0ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" />
         </a>
       </div>
     </td>
@@ -60,6 +65,11 @@
       <div align="center">
         <h3>⚡ GHOST-SHIELD</h3>
         <p><b>High-Throughput Kernel-Level eBPF/XDP Anti-DDoS Engine</b></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/ByGh00st/ghost-shield?style=flat-square&logo=github&color=ff0055&labelColor=0d1117" />
+          <img src="https://img.shields.io/github/last-commit/ByGh00st/ghost-shield?style=flat-square&color=00ff88&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Platform-eBPF%2FXDP-blue?style=flat-square&logo=linux" />
+        </p>
       </div>
       <ul>
         <li><b>Architecture:</b> Kernel-level XDP driver hook (Ring 0)</li>
@@ -70,7 +80,7 @@
       </ul>
       <div align="center">
         <a href="https://github.com/ByGh00st/ghost-shield">
-          <img src="https://img.shields.io/badge/EXPLORE-GHOST_SHIELD-ff0055?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-GHOST_SHIELD-ff0055?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </div>
     </td>
@@ -80,6 +90,10 @@
       <div align="center">
         <h3>🎮 GHOST-FRAMEWORK</h3>
         <p><b>Modular Cyberpunk Terminal User Interface & Security Tooling Suite</b></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/ByGh00st/Ghost-Framework?style=flat-square&logo=github&color=7928ca&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" />
+        </p>
       </div>
       <ul>
         <li><b>Architecture:</b> Asynchronous Python, Rich, Textual TUI Engine</li>
@@ -88,7 +102,7 @@
       </ul>
       <div align="center">
         <a href="https://github.com/ByGh00st/Ghost-Framework">
-          <img src="https://img.shields.io/badge/EXPLORE-GHOST_FRAMEWORK-7928ca?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-GHOST_FRAMEWORK-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </div>
     </td>
@@ -96,15 +110,19 @@
       <div align="center">
         <h3>🔒 PASSVAULT</h3>
         <p><b>Hardened Secrets & Cryptographic Credential Vault</b></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/ByGh00st/PassVault?style=flat-square&logo=github&color=00ff88&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square&logo=typescript" />
+        </p>
       </div>
       <ul>
         <li><b>Architecture:</b> Modern TypeScript, ChaCha20-Poly1305 / AES-256-GCM</li>
         <li><b>Security:</b> Zero-knowledge memory zeroization on process exit</li>
-        <li><b>Integration:</b> CLI & SDK bindings for automated CI/CD credential injection</li>
+        <li><b>Integration:</b> CLI & SDK bindings for automated credential injection</li>
       </ul>
       <div align="center">
         <a href="https://github.com/ByGh00st/PassVault">
-          <img src="https://img.shields.io/badge/EXPLORE-PASSVAULT-00ff88?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-PASSVAULT-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </div>
     </td>
@@ -153,34 +171,7 @@
 
 ---
 
-## 📊 LIVE GITHUB TELEMETRY & METRICS
-
 <div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByGh00st&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=cdd6f4" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByGh00st&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=cdd6f4" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByGh00st&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0055&currStreakNum=00f0ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByGh00st&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff0055" width="95%" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Contribution Snake -->
-### 🐍 Contribution Activity Stream
-<img src="https://raw.githubusercontent.com/ByGh00st/ByGh00st/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#7928ca,50:#00f0ff,100:#0f172a&height=120&section=footer" width="100%" />
 
