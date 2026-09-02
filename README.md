@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- Full-Width Glowing Cyberpunk Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f172a&height=180&text=BYGH00ST&fontSize=50&fontColor=00f0ff&fontAlign=50&fontAlignY=45&desc=SOVEREIGN%20OFFENSIVE%20%26%20KERNEL%20SYSTEMS%20ARCHITECT&descFontSize=14&descColor=cdd6f4&descAlign=50&descAlignY=70&stroke=00f0ff&strokeWidth=2" width="100%" />
+# `⚡ BYGH00ST // CYBERNETIC SYSTEMS ⚡`
+### `[ SOVEREIGN OFFENSIVE & KERNEL SYSTEMS ARCHITECT ]`
+*Founder & Lead Architect @ [ByGhost Security](https://byghost.tr)*
 
 <br/>
 
 <!-- Interactive Contact Badges -->
 <p align="center">
-  <a href="https://byghost.tr"><img src="https://img.shields.io/badge/🌐_PORTAL-byghost.tr-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
+  <a href="https://byghost.tr"><img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTAL-byghost.tr-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/byghost-tr"><img src="https://img.shields.io/badge/💼_LINKEDIN-byghost--tr-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:cybersecurity@byghost.tr"><img src="https://img.shields.io/badge/⚡_COMMS-cybersecurity@byghost.tr-ff0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:cybersecurity@byghost.tr"><img src="https://img.shields.io/badge/⚡_ENCRYPTED_COMMS-cybersecurity@byghost.tr-ff0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 </div>
@@ -25,7 +26,7 @@
 
 ---
 
-## 🚀 FLAGSHIP SİBER PROJELER (FLAGSHIP CYBER WEAPONS)
+## 🚀 FEATURED CYBER WEAPONS & KERNEL ENGINES
 
 <table>
   <tr>
