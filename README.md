@@ -1,7 +1,7 @@
-<div align="center">
+﻿<div align="center">
 
-# `⚡ BYGH00ST // SOVEREIGN SYSTEMS & KERNEL SECURITY ⚡`
-### `[ Senior Systems & Kernel Security Engineer • Security Researcher ]`
+# 💀 BYGH00ST // SOVEREIGN SYSTEMS & KERNEL SECURITY 💀
+### [ Senior Systems & Kernel Security Engineer • Security Researcher ]
 **Specializing in Hardware-Assisted Virtualization (Intel VT-x / KVM), eBPF Ring 0 Telemetry & Low-Level Forensics**
 
 <br/>
@@ -9,20 +9,20 @@
 <!-- Interactive Contact Badges -->
 <p align="center">
   <a href="https://byghost.tr"><img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTAL-byghost.tr-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
-  <a href="https://linkedin.com/in/byghost-tr"><img src="https://img.shields.io/badge/💼_LINKEDIN-byghost--tr-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://linkedin.com/in/byghost-tr"><img src="https://img.shields.io/badge/👔_LINKEDIN-byghost--tr-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:byghost@proton.me"><img src="https://img.shields.io/badge/🔒_PROTON_MAIL-byghost%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:cybersecurity@byghost.tr"><img src="https://img.shields.io/badge/⚡_SECURITY_COMMS-cybersecurity%40byghost.tr-ff0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:cybersecurity@byghost.tr"><img src="https://img.shields.io/badge/🛡️_SECURITY_COMMS-cybersecurity%40byghost.tr-ff0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🏛️ CORE TECHNICAL EXPERTISE & ARCHITECTURAL DOMAINS
+## ⚡ CORE TECHNICAL EXPERTISE & ARCHITECTURAL DOMAINS
 
-### ⚡ 1. Hardware-Assisted Virtualization & Hypervisor Security
+### 🧬 1. Hardware-Assisted Virtualization & Hypervisor Security
 * **Intel VT-x / AMD-V (VMX Root Mode)**: Bare-metal hypervisor execution, Extended Page Table (EPT) memory page integrity verification, and nested page table escape analysis.
-* **KVM API & Micro-VM Sandboxing**: Direct Linux KVM interfaces for independent VM/vCPU lifecycle management, hardware IOMMU isolation, and `<5ms` warm-VM ephemeral quarantine.
+* **KVM API & Micro-VM Sandboxing**: Direct Linux KVM interfaces for independent VM/vCPU lifecycle management, hardware IOMMU isolation, and <5ms warm-VM ephemeral quarantine.
 * **Low-Level Introspection**: OS scheduler DKOM tracking, LSTAR MSR proxying for direct syscall interception, and RDTSC clock synchronization.
 
 ### 🛡️ 2. Ring 0 Kernel Security & eBPF Telemetry Pipelines
@@ -30,10 +30,10 @@
 * **Line-Rate Packet Mitigation**: Sub-microsecond L2/L3/L4 packet filtering at the NIC driver layer (eBPF/XDP) with zero-copy BPF ring buffers.
 * **Hardware Execution Telemetry**: CPU PMU 32-slot LBR (Last Branch Record) for hardware-level ROP/JOP exploitation detection.
 
-### 🔬 3. Binary Forensics, CPU Emulation & Reverse Engineering
-* **Binary Parser & Emulation**: Structural parsing of `PE`, `ELF`, and `Mach-O` binaries with CPU-level code emulation using Unicorn Engine & Capstone disassembler.
-* **Telemetry Analysis**: Real-time Windows `ETW / ETWTI` kernel event mapping directly into the MITRE ATT&CK matrix.
-* **Signature & Memory Scanning**: Dynamic and static memory inspection engines powered by `YARA-X`.
+### 🔍 3. Binary Forensics, CPU Emulation & Reverse Engineering
+* **Binary Parser & Emulation**: Structural parsing of PE, ELF, and Mach-O binaries with CPU-level code emulation using Unicorn Engine & Capstone disassembler.
+* **Telemetry Analysis**: Real-time Windows ETW / ETWTI kernel event mapping directly into the MITRE ATT&CK matrix.
+* **Signature & Memory Scanning**: Dynamic and static memory inspection engines powered by YARA-X.
 
 ### 🌐 4. Low-Level Network Protocol & Cryptographic Camouflage
 * **Zero-Allocation Raw Sockets**: Packet crafting engines with manual TCP checksum/sequence verification and strict state-machine auditing.
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🛡️ Kernel, Virtualization & Hypervisor
+### ⚙️ Kernel, Virtualization & Hypervisor
 <p>
   <img src="https://img.shields.io/badge/Intel_VT--x_%2F_AMD--V-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_KVM_API-E95420?style=for-the-badge&logo=linux&logoColor=white" />
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-### 🌐 Network Security, Cryptography & Protocols
+### 📡 Network Security, Cryptography & Protocols
 <p>
   <img src="https://img.shields.io/badge/Raw_Sockets_(L2--L7)-0f172a?style=for-the-badge&logoColor=00f0ff" />
   <img src="https://img.shields.io/badge/TLS_JA3_%2F_JA4_Camo-7D4698?style=for-the-badge&logo=torproject&logoColor=white" />
@@ -99,6 +99,7 @@
 
 <table>
   <tr>
+    <!-- TOP LEFT: WRAITH-PRIME -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛡️ WRAITH-PRIME</h3>
@@ -122,31 +123,31 @@
         </a>
       </div>
     </td>
+    <!-- TOP RIGHT: PASSVAULT (SWAPPED TO TOP ROW) -->
     <td width="50%" valign="top">
       <div align="center">
-        <h3>⚡ GHOST-SHIELD</h3>
-        <p><b>High-Throughput Kernel-Level eBPF/XDP Anti-DDoS Engine</b></p>
+        <h3>🔐 PASSVAULT</h3>
+        <p><b>Zero-Knowledge Cryptographic Vault & Ring-3 Citadel</b></p>
         <p>
-          <img src="https://img.shields.io/github/stars/ByGh00st/ghost-shield?style=flat-square&logo=github&color=ff0055&labelColor=0d1117" />
-          <img src="https://img.shields.io/github/last-commit/ByGh00st/ghost-shield?style=flat-square&color=00ff88&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/Platform-eBPF%2FXDP-blue?style=flat-square&logo=linux" />
+          <img src="https://img.shields.io/github/stars/ByGh00st/PassVault?style=flat-square&logo=github&color=00ff88&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Language-Rust_%2F_TS-orange?style=flat-square&logo=rust" />
+          <img src="https://img.shields.io/badge/Platform-Tauri_v1-24C8D5?style=flat-square&logo=tauri" />
         </p>
       </div>
       <ul>
-        <li><b>Architecture:</b> Kernel-level XDP driver hook (Ring 0)</li>
-        <li><b>Performance:</b> Line-rate L2/L3/L4 packet filtering at NIC driver layer</li>
-        <li><b>Mitigation:</b> Sub-microsecond SYN, UDP, ICMP and amplification drop</li>
-        <li><b>Telemetry:</b> Zero-copy BPF ring buffers & live packet inspection</li>
-        <li><b>Engine:</b> Autonomous adaptive panic threshold mitigation</li>
+        <li><b>Architecture:</b> Native Rust Citadel + React 18, AES-256-GCM & Argon2id KDF</li>
+        <li><b>Kernel Protection:</b> <code>VirtualLock</code> physical RAM pinning, Spectre-aligned zeroization</li>
+        <li><b>Defense & Storage:</b> Anti-Keylogger Scrambled Matrix, Windows Hello, Pure Binary <code>.pvdb</code></li>
       </ul>
       <div align="center">
-        <a href="https://github.com/ByGh00st/ghost-shield">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-GHOST_SHIELD-ff0055?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+        <a href="https://github.com/ByGh00st/PassVault">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-PASSVAULT-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
+    <!-- BOTTOM LEFT: GHOST-FRAMEWORK -->
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎮 GHOST-FRAMEWORK</h3>
@@ -167,23 +168,26 @@
         </a>
       </div>
     </td>
+    <!-- BOTTOM RIGHT: GHOST-SHIELD (SWAPPED TO BOTTOM ROW) -->
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🔒 PASSVAULT</h3>
-        <p><b>Hardened Secrets & Cryptographic Credential Vault</b></p>
+        <h3>⚡ GHOST-SHIELD</h3>
+        <p><b>High-Throughput Kernel-Level eBPF/XDP Anti-DDoS Engine</b></p>
         <p>
-          <img src="https://img.shields.io/github/stars/ByGh00st/PassVault?style=flat-square&logo=github&color=00ff88&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square&logo=typescript" />
+          <img src="https://img.shields.io/github/stars/ByGh00st/ghost-shield?style=flat-square&logo=github&color=ff0055&labelColor=0d1117" />
+          <img src="https://img.shields.io/github/last-commit/ByGh00st/ghost-shield?style=flat-square&color=00ff88&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Platform-eBPF%2FXDP-blue?style=flat-square&logo=linux" />
         </p>
       </div>
       <ul>
-        <li><b>Architecture:</b> Modern TypeScript, ChaCha20-Poly1305 / AES-256-GCM</li>
-        <li><b>Security:</b> Zero-knowledge memory zeroization on process exit</li>
-        <li><b>Integration:</b> CLI & SDK bindings for automated credential injection</li>
+        <li><b>Architecture:</b> Kernel-level XDP driver hook (Ring 0)</li>
+        <li><b>Performance:</b> Line-rate L2/L3/L4 packet filtering at NIC driver layer</li>
+        <li><b>Mitigation:</b> Sub-microsecond SYN, UDP, ICMP and amplification drop</li>
+        <li><b>Telemetry:</b> Zero-copy BPF ring buffers & live packet inspection</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/ByGh00st/PassVault">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-PASSVAULT-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+        <a href="https://github.com/ByGh00st/ghost-shield">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-GHOST_SHIELD-ff0055?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </div>
     </td>
@@ -194,6 +198,6 @@
 
 <div align="center">
 
-<sub><i>⚡ "In code we trust, in kernel we reign." — ByGhost Security // Sovereign Cybernetic Systems</i></sub>
+<sub><i>💀 "In code we trust, in kernel we reign." — ByGhost Security // Sovereign Cybernetic Systems</i></sub>
 
 </div>
