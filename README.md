@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://byghost.tr"><img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTAL-byghost.tr-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/byghost-tr"><img src="https://img.shields.io/badge/👔_LINKEDIN-byghost--tr-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/sponsors/ByGh00st"><img src="https://img.shields.io/badge/💖_SPONSOR_RESEARCH-github_sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:byghost@proton.me"><img src="https://img.shields.io/badge/🔒_PROTON_MAIL-byghost%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:cybersecurity@byghost.tr"><img src="https://img.shields.io/badge/🛡️_SECURITY_COMMS-cybersecurity%40byghost.tr-00ff88?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
 </p>
